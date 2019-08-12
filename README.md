@@ -19,8 +19,8 @@ Day and Time: Wednesday 06:30PM - 09:20PM
 Location: Manhattan, Room 606
 
 Instructors: 
-Josh Hadro (You can call me "Josh", pronouns he/his)
-Ashley Blewer (You can call me "Ashley", pronouns she/hers)
+- Josh Hadro (You can call me "Josh", pronouns he/his)
+- Ashley Blewer (You can call me "Ashley", pronouns she/hers)
 
 Office Hours: by appointment
 
