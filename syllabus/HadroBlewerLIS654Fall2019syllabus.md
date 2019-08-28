@@ -923,7 +923,7 @@ who might benefit from fair use.
     the copyrighted work as a whole; and **
 
 (4) **the effect of the use upon the potential market for or value of
-    the copyrighted work. **
+    the copyrighted work.**
 
 > The fact that a work is unpublished shall not itself bar a finding of
 > fair use if such finding is made upon consideration of all the above
@@ -947,7 +947,7 @@ Definitive](http://lj.libraryjournal.com/2012/06/shows-events/ala/fair-use-panel
 *Library Journal*, June 26, 2012.
 
 **Read more:\
-**Copyright: Fair Use: <http://www.copyright.gov/fls/fl102.html>
+Copyright: Fai**r Use: <http://www.copyright.gov/fls/fl102.html>
 
 Measuring Fair Use: The Four Factors\
 <http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter9/9-b.html>
