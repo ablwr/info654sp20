@@ -482,7 +482,7 @@ Readings:
 **October 30 --- Technology Law and Ethics, including Open Source and
 Open Access**
 
-Due: Technology and Service Inspiration Post 2
+Due: Technology and Service Inspiration Post 3
 
 Readings:
 
