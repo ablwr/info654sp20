@@ -4,25 +4,22 @@
 
 **Technology and Service Inspiration Posts (10% of total grade)**
 
-**Blog URL**
-
-**<https://commons.pratt.edu/prattsi654fa19/> **
+**Blog URL:** <https://commons.pratt.edu/prattsi654fa19/>
 
 Due Dates: 
 -----------
 
 **Technology & Service Inspiration Posts**
 
-**September 04\
+September 04\
 September 25\
-October 30\
-**
+October 30
 
 **Reflection Posts**
 
-**September 11\
+September 11\
 October 02\
-November 20**
+November 20
 
 **Background**\
 Museum, Library, Archive and other information technologies are a set of
@@ -97,8 +94,8 @@ visualization applications, etc.
         -   Why should people in the information fields be paying
             attention to this particular development?
 
-** Reflection Posts** 
-======================
+ **Reflection Posts** 
+=====================
 
 Students will contribute at least three significant posts to the class
 blog over the course of the semester. See below for initial topic
