@@ -2,8 +2,8 @@
 
 **Due date: October 16, 2019**
 
-**Background\
-**As a web-conversant 21st century information professional, a
+**Background**
+As a web-conversant 21st century information professional, a
 familiarity with common site-creation principles and techniques isn\'t
 just important, it\'s essential. In contributing to the profession, you
 will likely be called upon to create or manipulate any variety of
@@ -14,8 +14,8 @@ have a web presence of their own creation and under their control. This
 assignment is designed to serve as a first milepost on the road toward
 both of these goals.
 
-**Scope\
-**Building on skills, tools, and technique introduced in class, students
+**Scope**
+Building on skills, tools, and technique introduced in class, students
 will create from scratch a linked series of web document featuring
 biographical information, images, and outbound links relevant to student
 interests. Required elements will include: a home page, three additional
@@ -43,8 +43,7 @@ to include more than the elements listed here, and to experiment with
 more advanced markup and coding concepts, but everything noted below
 must be present.
 
-**\
-Requirements:**
+**Requirements:**
 
 -   A home page with linked navigation to at least three other pages on
     the site
