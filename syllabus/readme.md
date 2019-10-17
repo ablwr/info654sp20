@@ -440,49 +440,7 @@ Readings:
 > Unlocking Potential: Where Next for Open Cultural Data in Museums?\
 > <http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/>
 
-**October 23 - Data analysis and visualization, and
-privacy/security/content moderation**
-
-Readings:
-
-> Intro To Data Analysis For Everyone! Part 1 \[N.B.: Make sure to watch
-> the "Data Story Telling" video embedded in the article\]\
-> <https://towardsdatascience.com/intro-to-data-analysis-for-everyone-part-1-ff252c3a38b5>
->
-> How We Helped Our Reporters Learn to Love Spreadsheets\
-> <https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919>
->
-> Data + Design: A simple introduction to preparing and visualizing
-> information
->
-> Chapters 1-2 and 12-13:\
-> <https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf>\
-> \
-> Ask the Question, Visualize the Answer\
-> <https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/>
->
-> Information Is Beautiful Examples:\
-> <https://informationisbeautiful.net/>
->
-> Goodbye Big Five\
-> <https://gizmodo.com/c/goodbye-big-five>
->
-> Data Craft: The Manipulation of Social Media Metadata\
-> <https://datasociety.net/output/data-craft/>
->
-> Tor and Library Freedom Project\
-> <https://libraryfreedomproject.org/>
->
-> Data Privacy Project: A zine about privacy at the library\
-> <https://dataprivacyproject.org/wp-content/uploads/2018/04/zine_for_printer_printing_order.pdf>
->
-> The Internet's Invisible Cleanup Crew\
-> <https://jacobinmag.com/2019/08/commercial-content-moderation-business-process-outsourcing-book-sarah-roberts-behind-screen>
-
-**October 30 --- Technology Law and Ethics, including Open Source and
-Open Access**
-
-Due: Technology and Service Inspiration Post 3
+**October 23 - Technology Law and Ethics, including Open Source and Open Access**
 
 Readings:
 
@@ -542,6 +500,46 @@ Optional:
 
 > Code of Best Practices in Fair Use for Software Preservation\
 > <https://www.arl.org/wp-content/uploads/2018/09/2019.2.28-software-preservation-code-revised.pdf>
+
+**October 30 --- Data analysis and visualization, and privacy/security/content moderation**
+
+Due: Technology and Service Inspiration Post 3
+
+Readings:
+
+> Intro To Data Analysis For Everyone! Part 1 \[N.B.: Make sure to watch
+> the "Data Story Telling" video embedded in the article\]\
+> <https://towardsdatascience.com/intro-to-data-analysis-for-everyone-part-1-ff252c3a38b5>
+>
+> How We Helped Our Reporters Learn to Love Spreadsheets\
+> <https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919>
+>
+> Data + Design: A simple introduction to preparing and visualizing
+> information
+>
+> Chapters 1-2 and 12-13:\
+> <https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf>\
+> \
+> Ask the Question, Visualize the Answer\
+> <https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/>
+>
+> Information Is Beautiful Examples:\
+> <https://informationisbeautiful.net/>
+>
+> Goodbye Big Five\
+> <https://gizmodo.com/c/goodbye-big-five>
+>
+> Data Craft: The Manipulation of Social Media Metadata\
+> <https://datasociety.net/output/data-craft/>
+>
+> Tor and Library Freedom Project\
+> <https://libraryfreedomproject.org/>
+>
+> Data Privacy Project: A zine about privacy at the library\
+> <https://dataprivacyproject.org/wp-content/uploads/2018/04/zine_for_printer_printing_order.pdf>
+>
+> The Internet's Invisible Cleanup Crew\
+> <https://jacobinmag.com/2019/08/commercial-content-moderation-business-process-outsourcing-book-sarah-roberts-behind-screen>
 
 **November 06 --- Content Management and Digital Asset
 Management/Preservation**
