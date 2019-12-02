@@ -600,7 +600,7 @@ Readings:
 > <http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/>
 >
 > Introduction to Relational Databases
-> https://en.wikiversity.org/wiki/Introduction\_to\_Relational\_Databases
+> <https://en.wikiversity.org/wiki/Relational_Databases/Introduction>
 >
 > Chapter 1. Introduction to Relational Databases\
 > <http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm>
