@@ -647,7 +647,7 @@ Due: Blank Technology Canvas Final Report Site
 Readings:
 
 > Can We Create a National Digital Library?\
-> <http://www.nybooks.com/articles/2010/10/28/can-we-create-national-digital-library/>
+> <https://web.archive.org/web/20161105035127/https://www.nybooks.com/articles/2010/10/28/can-we-create-national-digital-library/>
 >
 > How Do Institutional Philosophies Manifest in Online Collections?\
 > <https://www.sfmoma.org/read/how-do-institutional-philosophies-manifest-online-collections/>
