@@ -654,7 +654,7 @@ Readings:
 >
 > Can't Buy Us Love: The Declining Importance of Library Books and the
 > Rising Importance of Special Collections
-> <http://www.sr.ithaka.org/sites/default/files/files/SR_BriefingPaper_Anderson.pdf>
+> <https://sr.ithaka.org/wp-content/uploads/2013/08/SR_BriefingPaper_Anderson.pdf>
 >
 > Decolonizing technology: A reading list\
 > <https://beatricemartini.it/blog/decolonizing-technology-reading-list/>
