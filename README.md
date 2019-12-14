@@ -10,25 +10,22 @@ See you in class!
 
 ---
 
-Identifier: INFO-654-04
+Identifier: INFO-654-01
 
 Credits: 3
 
-Day and Time: Wednesday 06:30PM - 09:20PM
+Day and Time: Monday 06:30PM - 09:20PM
 
 Location: Manhattan, Room 606
 
 Instructors: 
-- Josh Hadro (You can call me "Josh", pronouns he/his)
 - Ashley Blewer (You can call me "Ashley", pronouns she/hers)
 
 Office Hours: by appointment
 
 ---
 
-Course Etherpad: [https://etherpad.net/p/prattsi654fa19-1](https://etherpad.net/p/prattsi654fa19-1)
-
-[increment last digit for subsequent class numbers, e.g. -2 for class session 2, -6 for class session 6, etc.]
+Course Etherpad: To Replace
 
 Course WordPress site:   [https://commons.pratt.edu/prattsi654fa19/](https://commons.pratt.edu/prattsi654fa19/) (invitations and logins to come)
 

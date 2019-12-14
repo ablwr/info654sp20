@@ -1,40 +1,28 @@
 Information Technologies
 ========================
 
-INFO 654-04\
-Credits: 3\
+INFO 654-01  
+Credits: 3  
 Day and Time: Wednesday 06:30PM - 09:20PM\
 Location: Manhattan, Room 606
 
-Instructors:
-
--   Josh Hadro (please call me "Josh", pronouns he/him/his)
-
-    -   <josh.hadro@gmail.com>
-
-    -   \(917) 428-4152
-
--   Ashley Blewer (please call me "Ashley", pronouns are she/her/hers)
-
+Instructor:
+- Ashley Blewer (please call me "Ashley", pronouns are she/her/hers)
     -   <ashley.blewer@gmail.com>
-
     -   \(803) 403-5013
 
 Office Hours: by appointment
 
-**Tech Tutor(s) for Fall 2019:** Manasi Muke\
+**Tech Tutor(s) for Spring 2020:** TODO
 Email: <techtuto@pratt.edu>
 
 **Hours:**
 
-Tuesdays - 11:30 am to 2:30 pm\
-Wednesdays - 12 pm to 7 pm\
-Thursdays - 12 pm to 7 pm
+Tuesdays - 11:30 am to 2:30 pm  
+Wednesdays - 12 pm to 7 pm  
+Thursdays - 12 pm to 7 pm  
 
-Course Etherpad: <https://etherpad.net/p/prattsi654fa19-1>
-
-\[increment last digit for subsequent class numbers, e.g. -2 for class
-session 2, -6 for class session 6, etc.\]
+Course Etherpad: TODO
 
 Course WordPress site: <https://commons.pratt.edu/prattsi654fa19/>
 (invitations and logins to come)
@@ -142,8 +130,7 @@ provided below with some regularity.
 
 <http://planet.code4lib.org/>\
 <http://code4lib.org/>\
-<http://weaveux.org/> \[Disclosure: I serve on the advisory board for
-this open access publication\]\
+<http://weaveux.org/> \
 <http://hacklibraryschool.com/>\
 <http://lisnews.org/>\
 <http://www.inthelibrarywiththeleadpipe.org/>\
@@ -179,7 +166,6 @@ Above the Fold from OCLC:
 [http://www.techdirt.com](http://www.techdirt.com/)/
 
 Twitter via Tweetdeck or other list-displaying programs or apps\
-Flipboard etc.
 
 Coding tutorials:
 -----------------
@@ -200,11 +186,11 @@ card](https://www.nypl.org/collections/articles-databases/lyndacom)!\]
 Class Schedule
 --------------
 
-**August 28 --- Introduction and Information Technology Basics**
+**January 27 --- Introduction and Information Technology Basics**
 
 In class: set up a WordPress blog profile
 
-**September 04 --- The Internet, Networks, and Protocols**
+**February 3 --- The Internet, Networks, and Protocols**
 
 Due: Technology and Service Inspiration Post 1
 
@@ -231,7 +217,7 @@ Readings:
 > Women in Programming: Erasure and Visibility\
 > <https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/>
 
-**September 11 --- Web Design Basics: HTML (LAB)**
+**February 10 --- Web Design Basics: HTML (LAB)**
 
 Due: Reflection Post 1
 
@@ -258,7 +244,7 @@ Readings:
 > The Evolution of the Web (infographic)\
 > <http://www.evolutionoftheweb.com/?hl=en>
 
-**September 18 --- Web Design Basics: CSS (LAB)**
+**February 17 --- Web Design Basics: CSS (LAB)**
 
 Readings:
 
@@ -292,7 +278,7 @@ Readings:
 > (Background talk on this project:
 > <https://www.youtube.com/watch?v=QaSbL4sRff8>)
 
-**September 25 --- More Web Design Principles + Graphics and Multimedia
+**February 24 --- More Web Design Principles + Graphics and Multimedia
 (Web Design Wrap-up)**
 
 Due: Technology and Service Inspiration Post 2
@@ -330,7 +316,7 @@ Readings:
 > Welcome to the Mailchimp Content Style Guide\
 > <https://styleguide.mailchimp.com/>
 
-**October 02 - Usability, User Experience, and Universal Design**
+**March 2 - Usability, User Experience, and Universal Design**
 
 Due: Reflection Post 2
 
@@ -378,7 +364,7 @@ Readings:
 > 9 GIFs That Explain Responsive Design Brilliantly\
 > <https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2>
 
-**October 09 --- Structured Data, XML, and JSON**
+**March 9 --- Structured Data, XML, and JSON**
 
 Readings:
 
@@ -406,7 +392,9 @@ Readings:
 > Archivist\
 > <https://journal.code4lib.org/articles/9158>
 
-**October 16 --- APIs and Linked Data**
+**March 16 --- Spring Break / NO CLASS**
+
+**March 23 --- APIs and Linked Data**
 
 Due: Personal homepage
 
@@ -440,7 +428,8 @@ Readings:
 > Unlocking Potential: Where Next for Open Cultural Data in Museums?\
 > <http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/>
 
-**October 23 - Technology Law and Ethics, including Open Source and Open Access**
+
+**March 30 - Technology Law and Ethics, including Open Source and Open Access**
 
 Readings:
 
@@ -501,7 +490,7 @@ Optional:
 > Code of Best Practices in Fair Use for Software Preservation\
 > <https://www.arl.org/wp-content/uploads/2018/09/2019.2.28-software-preservation-code-revised.pdf>
 
-**October 30 --- Data analysis and visualization, and privacy/security/content moderation**
+**April 6 --- Data analysis and visualization, and privacy/security/content moderation**
 
 Due: Technology and Service Inspiration Post 3
 
@@ -541,7 +530,7 @@ Readings:
 > The Internet's Invisible Cleanup Crew\
 > <https://jacobinmag.com/2019/08/commercial-content-moderation-business-process-outsourcing-book-sarah-roberts-behind-screen>
 
-**November 06 --- Content Management and Digital Asset
+**April 13 --- Content Management and Digital Asset
 Management/Preservation**
 
 Readings:
@@ -581,17 +570,15 @@ Readings:
 > Creating the Catalog, Before and After FRBR\
 > <https://kcoyle.net/mexico.html>
 
-**November 13 --- Blank Technology Canvas Pitch Presentations**
+**April 20 --- Blank Technology Canvas Pitch Presentations**
 
 Due: Blank Technology Canvas Pitch Presentation
 
-**November 20 --- Blank Technology Canvas Pitch Presentations**
+**April 27 --- Blank Technology Canvas Pitch Presentations**
 
 Due: Reflection Post 3
 
-**November 28 --- NO CLASS**
-
-**December 04 --- Databases and Structured Queries (and SQL Primer
+**May 4 --- Databases and Structured Queries (and SQL Primer
 LAB)**
 
 Readings:
@@ -640,7 +627,7 @@ Readings:
 > Introduction to SQL (Interactive Tutorial)\
 > <http://sqlzoo.net/wiki/SQL_Tutorial>
 
-**December 11 --- Information Technology of the Future, and Wrap-up**
+**May 11 --- Information Technology of the Future, and Wrap-up**
 
 Due: Blank Technology Canvas Final Report Site
 
