@@ -117,11 +117,12 @@ Readings with an \* can sometimes be behind a paywall. A copy has been saved in 
 Readings:
 
 - c.1997. Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff. [A Brief History of the Internet](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet)
-- c.2000. 2.W3C [A Little History of the World Wide Web](http://www.w3.org/History.html)
+- c.2000. W3C [A Little History of the World Wide Web](http://www.w3.org/History.html)
+- 2019-01-14. Amy Dickens. [Web Standards: The What, The Why, And The How](https://www.smashingmagazine.com/2019/01/web-standards-guide/)
 - \* 1945. Vannevar Bush. [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true)
 - \* 2015-12-06. Ingrid Burrington. [The Environmental Toll of a Netflix Binge](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/)
-- \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb)
-- 2016-08-11. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/)
+- 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/)
+- 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696)
 
 ### February 10 --- Web Design Basics: HTML (LAB)
 
@@ -129,11 +130,11 @@ Readings:
 
 Readings:
 
+- 2018-09-01. Julia Evans. [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
 - c.1998. Addison Wesley Longman.[A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html)
 - 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/)
-- 2009-07-16. Smashing Magazine. [HTML5 and The Future of the Web](http://coding.smashingmagazine.com/2009/07/16/html5-and-the-future-of-the-web/)
-- 2014-11-20. Paul Ford. [The Group That Rules the Web](http://www.newyorker.com/tech/elements/group-rules-web)
 - 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/)
+- Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
 - [The Evolution of the Web](http://www.evolutionoftheweb.com/?hl=en) (infographic)
 
 Technical resources:
@@ -144,14 +145,14 @@ Technical resources:
 Readings:
 
 - 2015-06-11. Paul Ford. [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (Note: longer piece, leave enough time to experience this!)
+- c.1999. Håkon Wium Lie and Bert Bos. Cascading Style Sheets, designing for the Web, Chapter 20: [The CSS Saga](http://www.w3.org/Style/LieBos2e/history/Overview.html)
+- [Code.org: Web Development: Intro to CSS](https://www.youtube.com/watch?v=EP9QMdoXvXE) (video)
+- 2019-10-11. Rachel Andrews. [The W3C at Twenty-Five](https://www.smashingmagazine.com/2019/10/happy-birthday-w3c/)
 
 Technical resources:
-- [The CSS Saga](http://www.w3.org/Style/LieBos2e/history/Overview.html)
 - [CSS Basics](http://www.cssbasics.com/)
 - Current. Mozilla. [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - Current. Mozilla. [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
-- [Learn CSS in 12 Minutes](https://www.youtube.com/watch?v=0afZj1G0BIE) (video)
-- 2019-01-30. Rachel Andrew. [HTML, CSS and our vanishing industry entry points](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/)
 
 Bonus:
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
@@ -163,15 +164,15 @@ Bonus:
 
 Readings:
 
-- 2011-01-12. Smashing Magazine. [Responsive Web Design -- What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
-- 2010-02-22. William Craig. [The Comprehensive Guide to Saving Images for the Web](http://sixrevisions.com/web_design/comprehensive-guide-saving-images-for-web/)
-- c.1996 (last modified 2011). Daniel Rutter. [Graphics Formats Explained](http://www.dansdata.com/graphics.htm)
-- Current. [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
+- \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb)
 - 2018-07-31. The Bodleian Libraries.[Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253)
 - 2019-02-06. Allie Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe)
 - 2016-11-02. Sid Bala. [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 - 2019-05-01. Omar Shehata.[Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
-- Current. Mailchimp. [Welcome to the Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
+
+Resources:
+- [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
+- Mailchimp. [Welcome to the Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 
 ### March 2 --- Usability, User Experience, and Universal Design
 
@@ -220,7 +221,6 @@ Readings:
 - [What Is An API & What Are They Good For?](http://www.makeuseof.com/tag/api-good-technology-explained/)
 - [REST Web APIs: A Super-Simple Tutorial](http://www.pgbovine.net/rest-web-api-basics.htm)
 - Current. White House. [WhiteHouse api-standards](https://github.com/WhiteHouse/api-standards)
-- Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
 - [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
 - [Linked Data for Libraries](http://lodlam.net/2012/08/09/linked-data-for-libraries-video-from-oclc/) (video, 14 minutes)
 - [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/)
@@ -232,18 +232,15 @@ Readings:
 Readings:
 
 - 2019-02-20. Kate Dohe. [Care, Code, and Digital Libraries: Embracing Critical Practice in Digital Library Communities](http://inthelibrarywiththeleadpipe.org/2019/digital-libraries-critical-practice-in-communities/)
-- Current. University of Minnesota. [Copyright Basics](https://www.lib.umn.edu/copyright/basics)
-- 2018-03-21. Paul Ford. [Silicon Valley Has Failed to Protect Our Data. Here's How to Fix It](https://www.bloomberg.com/news/articles/2018-03-21/paul-ford-facebook-is-why-we-need-a-digital-protection-agency)
 - 2018-12-14. Martin Tisne. [It's time for a Bill of Data Rights](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/)
 - April 2017. Clifford Lynch. [The Rise of Reading Analytics and the Emerging Calculus of Reader Privacy in the Digital World](http://firstmonday.org/ojs/index.php/fm/article/view/7414/6096)
-- 2012-02-22. Mike Shatzkin.[Libraries and publishers don't have symmetrical interest in a conversation](http://www.idealog.com/blog/libraries-and-publishers-dont-have-symmetrical-interest-in-a-conversation)
-- 2011-03-21. Joseph Esposito. [The Vexed Problem of Libraries, Publishers, and E-books](http://scholarlykitchen.sspnet.org/2011/03/21/the-vexed-problem-of-libraries-publishers-and-e-books/)
 - Spring 2005. Edward M. Corrado. [The Importance of Open Access, Open Source, and Open Standards for Libraries](http://www.istl.org/05-spring/article2.html)
 - 2011-09-27. Meredith Farkas. [Open Source, Open Mind](https://americanlibrariesmagazine.org/2011/09/27/open-source-open-mind/)
-- 2010-05-21. Jonathan Rochkind. [A Primer in Risk](http://lj.libraryjournal.com/2008/11/ljarchives/a-primer-in-risk/)
+- 2019-10-06. Christie Koehler.[Open Source Licenses and the Ethical Use of Software](https://subfictional.com/open-source-licenses-and-the-ethical-use-of-software/)
 - [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) (Read through "How The Current System Works" (first few chapters))
 
 Resources:
+- Current. University of Minnesota. [Copyright Basics](https://www.lib.umn.edu/copyright/basics)
 - [Code of Best Practices in Fair Use for Software Preservation](https://www.arl.org/wp-content/uploads/2018/09/2019.2.28-software-preservation-code-revised.pdf)
 - [American Alliance of Museums: Ethics, Standards, and Professional
 Practices](https://www.aam-us.org/programs/ethics-standards-and-professional-practices/ethics/)
@@ -267,22 +264,25 @@ information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0
 - 2018-04. Data Privacy Project. [A zine about privacy at the library](https://dataprivacyproject.org/wp-content/uploads/2018/04/zine_for_printer_printing_order.pdf) [PDF]
 - 2019-08. Emily Drabinski.[The Internet's Invisible Cleanup Crew](https://jacobinmag.com/2019/08/commercial-content-moderation-business-process-outsourcing-book-sarah-roberts-behind-screen)
 
-### April 13 --- Content Management and Digital Asset Management
+Resources:
+- Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
+
+### April 13 --- Content Management, Digital Asset Management, Digital Preservation
 
 Readings:
 
-- 2014-04-19. Michah Walter.[Downgrading your website](https://uncategorized.micahwalter.com/downgrading-your-website-e3d0ba00fd44)
-- 2016. Karen Coyle.[Catalogs and Context](http://kcoyle.net/catcon.html)
+- 2014-04-19. Michah Walter. [Downgrading your website](https://uncategorized.micahwalter.com/downgrading-your-website-e3d0ba00fd44)
+- 2016. Karen Coyle. [Catalogs and Context](http://kcoyle.net/catcon.html)
 - 2006-05-20. Karen G. Schneider. [How OPACs Suck, Part 3: The Big Picture](http://web.archive.org/web/20091001235807/http://www.alatechsource.org/blog/2006/05/how-opacs-suck-part-3-the-big-picture.html)
-- 2013-08. Library of Congress. [Analysis of Current Digital Preservation Policies: Archives, Libraries and Museums](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
 - 2017-12-15. Lauren J. Young. [ScienceFriday: Ghost in the Reels](https://apps.sciencefriday.com/data/ghosts.html)
-- 2019-02-07. David Rosenthal.[Cloud For Preservation](https://blog.dshr.org/2019/02/cloud-for-preservation.html)
+- 2019-02-07. David Rosenthal. [Cloud For Preservation](https://blog.dshr.org/2019/02/cloud-for-preservation.html)
 
 Optional, but encouraged, especially for LIS students:
-- [Creating the Catalog, Before and After FRBR](https://kcoyle.net/mexico.html)
+- 2017-09-12. Karen Coyle. [Creating the Catalog, Before and After FRBR](https://kcoyle.net/mexico.html)
 
 References:
 - [A high-level overview of the differences between CMSs](https://docs.google.com/spreadsheets/d/1cXOug3qM0pNNeD_wssiVEv9c0W1Y5I1VDTnSPTk7fb4/edit?ts=5ca9a929#gid=0)
+- 2013-08. Library of Congress. [Analysis of Current Digital Preservation Policies: Archives, Libraries and Museums](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
 
 ### April 20 --- Blank Technology Canvas Pitch Presentations
 
@@ -298,11 +298,12 @@ Readings:
 
 - 2008-10-23. Ryan Deshamps. [What is a Database, really? Data Storage for Librarians](http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/)
 - Current. Wikiversity. [Introduction to Relational Databases](https://en.wikiversity.org/wiki/Relational_Databases/Introduction)
-- c.2009. Randy Jay Yarger, George Reese, and Tim King.[Chapter 1. Introduction to Relational Databases](http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm)
-- 2015-12-02. Paul Ford.[I Dreamed of a Perfect Database](https://newrepublic.com/article/124425/dreamed-perfect-database)
-- 2013-11-07. [SQL: The Prequel (Excel vs. Databases)](https://schoolofdata.org/2013/11/07/sql-databases-vs-excel/)
+- c.2009. Randy Jay Yarger, George Reese, and Tim King. [Chapter 1. Introduction to Relational Databases](http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm)
+- 2013-11-07. Noah Veltman. [SQL: The Prequel (Excel vs. Databases)](https://schoolofdata.org/2013/11/07/sql-databases-vs-excel/)
 - 2015-09-12. Ruth Tillman. [An Introduction to SQL for Librarians](http://ruthtillman.com/an-introduction-to-sql-for-librarians/)
 - 2015-06-27. qntm. [Obergefell v. Hodges: the database engineering perspective](https://qntm.org/support)
+
+
 - Sandboxes! Have fun and play around with these, you can't break them!:
     - Australian Dogs SQL Sandbox: https://australian-dogs.now.sh/australian-dogs-3ba9628?sql=select+*+from+%5BAdelaide-City-Council-dog-registrations-2013%5D+where+%5BAnimal+name%5D+like+%22%25Ma%25%22
     - Bechdel Test movie data from FiveThirtyEight: https://fivethirtyeight.datasettes.com/fivethirtyeight?sql=select+*+from+%5Bbechdel%2Fmovies%5D
