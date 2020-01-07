@@ -116,8 +116,8 @@ Readings with an \* can sometimes be behind a paywall. A copy has been saved in 
 
 Readings:
 
-- 1997. Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff. [A Brief History of the Internet](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet)
-- 2000. 2.W3C [A Little History of the World Wide Web](http://www.w3.org/History.html)
+- \1997. Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff. [A Brief History of the Internet](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet)
+- \2000. 2.W3C [A Little History of the World Wide Web](http://www.w3.org/History.html)
 - \* 1945. Vannevar Bush. [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true)
 - \* 2015-12-06. Ingrid Burrington. [The Environmental Toll of a Netflix Binge](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/)
 - \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb)
@@ -129,7 +129,7 @@ Readings:
 
 Readings:
 
-- 1998. Addison Wesley Longman.[A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html)
+- \1998. Addison Wesley Longman.[A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html)
 - 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/)
 - 2009-07-16. Smashing Magazine. [HTML5 and The Future of the Web](http://coding.smashingmagazine.com/2009/07/16/html5-and-the-future-of-the-web/)
 - 2014-11-20. Paul Ford. [The Group That Rules the Web](http://www.newyorker.com/tech/elements/group-rules-web)
