@@ -1,33 +1,33 @@
 #  Information Technologies at Pratt SI
 
-Welcome to 654! 
+Welcome to 654!  
 
-We're using Github this semester as a tool for distributing files and as a method of helping folks get more acquainted with code editors and open tools, etc. 
+We're using Github this semester as a tool for distributing files and as a method of helping folks get more acquainted with code editors and open tools, etc.  
 
-See below for basic headline info, but see the [`syllabus`](syllabus) section for the formal full course information documents, and the [`assignments`](assignments) folder for the descriptions of materials you will turn in.
+See below for basic headline info, but see the [`syllabus`](syllabus) section for the formal full course information documents, and the [`assignments`](assignments) folder for the descriptions of materials you will turn in.  
 
-See you in class!
+See you in class!  
 
 ---
 
-Identifier: INFO-654-01
+**Identifier: INFO-654-01**  
 
-Credits: 3
+*Credits*: 3  
 
-Day and Time: Monday 06:30PM - 09:20PM
+*Day and Time*: Monday 06:30PM - 09:20PM  
 
-Location: Manhattan, Room 606
+*Location*: Manhattan, Room 606  
 
-Instructors: 
+*Instructors*:  
 - Ashley Blewer (You can call me "Ashley", pronouns she/hers)
 
-Office Hours: by appointment
+*Office Hours*: by appointment  
 
 ---
 
-Course Etherpad: To Replace
+Course Etherpad: To Be Replaced
 
-Course WordPress site:   [https://commons.pratt.edu/prattsi654fa19/](https://commons.pratt.edu/prattsi654fa19/) (invitations and logins to come)
+Course WordPress site:   [https://commons.pratt.edu/prattsi654sp20/](https://commons.pratt.edu/prattsi654sp20/) (invitations and logins to come)
 
 Course hashtag: [#INFO654](https://twitter.com/search?f=tweets&q=%23info654&src=typd) (optional)
 
