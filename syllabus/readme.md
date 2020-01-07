@@ -116,8 +116,8 @@ Readings with an \* can sometimes be behind a paywall. A copy has been saved in 
 
 Readings:
 
-- \1997. Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff. [A Brief History of the Internet](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet)
-- \2000. 2.W3C [A Little History of the World Wide Web](http://www.w3.org/History.html)
+- c.1997. Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff. [A Brief History of the Internet](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet)
+- c.2000. 2.W3C [A Little History of the World Wide Web](http://www.w3.org/History.html)
 - \* 1945. Vannevar Bush. [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true)
 - \* 2015-12-06. Ingrid Burrington. [The Environmental Toll of a Netflix Binge](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/)
 - \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb)
@@ -129,11 +129,11 @@ Readings:
 
 Readings:
 
-- \1998. Addison Wesley Longman.[A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html)
+- c.1998. Addison Wesley Longman.[A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html)
 - 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/)
 - 2009-07-16. Smashing Magazine. [HTML5 and The Future of the Web](http://coding.smashingmagazine.com/2009/07/16/html5-and-the-future-of-the-web/)
 - 2014-11-20. Paul Ford. [The Group That Rules the Web](http://www.newyorker.com/tech/elements/group-rules-web)
-- 2017-02-13. J. M. Porup. [A battle rages for the future of the Web(https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/)
+- 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/)
 - [The Evolution of the Web](http://www.evolutionoftheweb.com/?hl=en) (infographic)
 
 Technical resources:
@@ -143,8 +143,7 @@ Technical resources:
 
 Readings:
 
-- 2015-06-11. Paul Ford. [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (Note: longer piece, leave enough time to experience
-this!)
+- 2015-06-11. Paul Ford. [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (Note: longer piece, leave enough time to experience this!)
 
 Technical resources:
 - [The CSS Saga](http://www.w3.org/Style/LieBos2e/history/Overview.html)
@@ -166,7 +165,7 @@ Readings:
 
 - 2011-01-12. Smashing Magazine. [Responsive Web Design -- What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - 2010-02-22. William Craig. [The Comprehensive Guide to Saving Images for the Web](http://sixrevisions.com/web_design/comprehensive-guide-saving-images-for-web/)
-- 1996 (last modified 2011). Daniel Rutter. [Graphics Formats Explained](http://www.dansdata.com/graphics.htm)
+- c.1996 (last modified 2011). Daniel Rutter. [Graphics Formats Explained](http://www.dansdata.com/graphics.htm)
 - Current. [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
 - 2018-07-31. The Bodleian Libraries.[Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253)
 - 2019-02-06. Allie Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe)
@@ -187,7 +186,7 @@ Readings:
 - 2017-09. Moriel Schottlender. [Wait, it does ??tahW: How supporting Right-to-Left can expose your bad UX](https://www.youtube.com/watch?v=xpumLsaAWGw) (video, 28 minutes)
 - [User-Centered Design for Complex Digital Objects]\(https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 - 2014-07-31. Anne Gibson. [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
-- 2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main)
+- c.2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main)
 - [Accessibility and Design resources](https://www.usability.gov/)
 - http://www.libsuccess.org/Website_Design
 - http://www.libsuccess.org/Website_Design#Accessibility
@@ -299,7 +298,7 @@ Readings:
 
 - 2008-10-23. Ryan Deshamps. [What is a Database, really? Data Storage for Librarians](http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/)
 - Current. Wikiversity. [Introduction to Relational Databases](https://en.wikiversity.org/wiki/Relational_Databases/Introduction)
-- 2009. Randy Jay Yarger, George Reese, and Tim King.[Chapter 1. Introduction to Relational Databases](http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm)
+- c.2009. Randy Jay Yarger, George Reese, and Tim King.[Chapter 1. Introduction to Relational Databases](http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm)
 - 2015-12-02. Paul Ford.[I Dreamed of a Perfect Database](https://newrepublic.com/article/124425/dreamed-perfect-database)
 - 2013-11-07. [SQL: The Prequel (Excel vs. Databases)](https://schoolofdata.org/2013/11/07/sql-databases-vs-excel/)
 - 2015-09-12. Ruth Tillman. [An Introduction to SQL for Librarians](http://ruthtillman.com/an-introduction-to-sql-for-librarians/)
@@ -312,7 +311,7 @@ Readings:
     - More datasets here: https://github.com/simonw/datasette/wiki/Datasettes
 
 Extra reading (useful to try in conjunction with reading directly
-above):\
+above):  
 - [Introduction to SQL (Interactive Tutorial)](http://sqlzoo.net/wiki/SQL_Tutorial)
 
 ### May 11 --- Information Technology of the Future, and Wrap-up
@@ -329,7 +328,7 @@ Readings:
 - 2018-10-16. Melanie Ehrenkranz. [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009/amp)
 - 2017-04-20. James Somers. [Torching the Modern-Day Library of Alexandria](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
 - 2017-08-10. Jennifer Howard. [What Happened to Google's Effort to Scan Millions of University Library Books?](https://www.edsurge.com/news/2017-08-10-what-happened-to-google-s-effort-to-scan-millions-of-university-library-books)
-- 2019 or 2020. Mozilla. [Internet Health Report](https://foundation.mozilla.org/en/internet-health-report/)
+- c.2019 or 2020. Mozilla. [Internet Health Report](https://foundation.mozilla.org/en/internet-health-report/)
 - 2018-06-15. MoreThanCode. [#MoreThanCode: Practitioners reimagine the landscape of technology for justice and equity (executive summary)](https://morethancode.cc/2018/06/15/morethancode-executive-summary.html)
 
 ##  Textbooks, Readings and Materials
@@ -374,33 +373,26 @@ provided below with some regularity.
 
 **Also recommended more general publications:**
 
-- <http://arstechnica.com/>\
-- <http://pewinternet.org/>\
-- <http://www.theverge.com/>\
-- <http://www.theatlantic.com/technology/>\
-- <http://www.nytimes.com/pages/technology/>\
-- <http://www.newyorker.com/magazine/annals-of-technology>\
-- <http://metafilter.com>\
-- <http://chronicle.com/section/Technology/30/>\
-- <http://www.insidehighered.com/news/focus/technology>\
-- <https://news.ycombinator.com/>\
+- <http://arstechnica.com/>
+- <http://pewinternet.org/>
+- <http://www.theverge.com/>
+- <http://www.theatlantic.com/technology/>
+- <http://www.nytimes.com/pages/technology/>
+- <http://www.newyorker.com/magazine/annals-of-technology>
+- <http://metafilter.com>
+- <http://chronicle.com/section/Technology/30/>
+- <http://www.insidehighered.com/news/focus/technology>
+- <https://news.ycombinator.com/>
 - Twitter
 
 ## Coding tutorials:
 
-<http://lynda.com/>\[Available to you for [free with an NYPL
-card](https://www.nypl.org/collections/articles-databases/lyndacom)!\]
-
-<https://www.codecademy.com/>
-
-<https://code.org/>
-
-<https://www.codeschool.com/>
-
-<https://data-lessons.github.io/library-python/>
-
-<https://programminghistorian.org/lessons/>
-
+- [Codecademy](https://www.codecademy.com)
+- [CodeNewbie](https://codenewbie.org)
+- [Programming Historian](https://programminghistorian.org/lessons/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
+- [Lynda.com](http://lynda.com/) [Available to you for [free with an NYPL
+card](https://www.nypl.org/collections/articles-databases/lyndacom)!]
 
 ## Projects, Papers, and Assignments
 
