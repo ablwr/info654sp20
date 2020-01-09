@@ -184,6 +184,7 @@ Readings:
 - 2013-08-27. Aarron Walter. [Connected UX](http://alistapart.com/article/connected-ux)
 - [Web Style Guide- Chapter 2*:* Universal Usability](http://www.webstyleguide.com/wsg3/2-universal-usability/index.html)
 - 2009-10-06. Dana Chisnell. [Usability Testing Demystified](https://alistapart.com/article/usability-testing-demystified)
+- 2016-05-08. Sina Bahram. [How I Code and Use a Computer at 1,000 WPM!!](https://youtu.be/G1r55efei5c) (video, 13 minutes)
 - 2017-09. Moriel Schottlender. [Wait, it does ??tahW: How supporting Right-to-Left can expose your bad UX](https://www.youtube.com/watch?v=xpumLsaAWGw) (video, 28 minutes)
 - [User-Centered Design for Complex Digital Objects]\(https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 - 2014-07-31. Anne Gibson. [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
