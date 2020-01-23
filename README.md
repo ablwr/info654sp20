@@ -25,13 +25,14 @@ See you in class!
 
 ---
 
-Course Etherpad: To Be Replaced
+Course Notes: TBA
 
 Course WordPress site:   [https://commons.pratt.edu/prattsi654sp20/](https://commons.pratt.edu/prattsi654sp20/) (invitations and logins to come)
 
 Course hashtag: [#INFO654](https://twitter.com/search?f=tweets&q=%23info654&src=typd) (optional)
 
 ---
+Thank you to Josh Hadro, original designer of this class!
 
 Publishing everything in this repo as CC-BY; see [`license`](license.md)
 

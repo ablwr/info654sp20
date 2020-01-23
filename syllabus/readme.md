@@ -16,10 +16,10 @@ Office Hours: by appointment
 Email: <techtuto@pratt.edu> 
 
 **Course Collaborative Notes**  
-- TODO
+- Available later
 
 **Course WordPress site:**  
-<https://commons.pratt.edu/prattsi654sa20/>
+<https://commons.pratt.edu/prattsi654sp20/>
 (invitations and logins to come)
 
 **Course hashtag**
@@ -131,7 +131,7 @@ Readings:
 Readings:
 
 - 2018-09-01. Julia Evans. [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
-- c.1998. Addison Wesley Longman.[A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html)
+- c.1998. Addison Wesley Longman. [A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html)
 - 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/)
 - 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/)
 - Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
@@ -165,10 +165,10 @@ Bonus:
 Readings:
 
 - \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb)
-- 2018-07-31. The Bodleian Libraries.[Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253)
+- 2018-07-31. The Bodleian Libraries. [Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253)
 - 2019-02-06. Allie Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe)
 - 2016-11-02. Sid Bala. [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
-- 2019-05-01. Omar Shehata.[Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- 2019-05-01. Omar Shehata. [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 
 Resources:
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
@@ -237,7 +237,7 @@ Readings:
 - April 2017. Clifford Lynch. [The Rise of Reading Analytics and the Emerging Calculus of Reader Privacy in the Digital World](http://firstmonday.org/ojs/index.php/fm/article/view/7414/6096)
 - Spring 2005. Edward M. Corrado. [The Importance of Open Access, Open Source, and Open Standards for Libraries](http://www.istl.org/05-spring/article2.html)
 - 2011-09-27. Meredith Farkas. [Open Source, Open Mind](https://americanlibrariesmagazine.org/2011/09/27/open-source-open-mind/)
-- 2019-10-06. Christie Koehler.[Open Source Licenses and the Ethical Use of Software](https://subfictional.com/open-source-licenses-and-the-ethical-use-of-software/)
+- 2019-10-06. Christie Koehler. [Open Source Licenses and the Ethical Use of Software](https://subfictional.com/open-source-licenses-and-the-ethical-use-of-software/)
 - [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) (Read through "How The Current System Works" (first few chapters))
 
 Resources:
@@ -259,31 +259,32 @@ Readings:
 - [Data + Design: A simple introduction to preparing and visualizing
 information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf) Read Chapters 1-2 and 12-13 [PDF]
 - 2018-10-17. Nathan Yau. [Ask the Question, Visualize the Answer](https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/)
-- 2019-02. Kashmir Hill.[Goodbye Big Five](https://gizmodo.com/c/goodbye-big-five) (Either read text or watch videos)
-- 2019-11-05. Amelia Acker.[Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/)
+- 2019-02. Kashmir Hill. [Goodbye Big Five](https://gizmodo.com/c/goodbye-big-five) (Either read text or watch videos)
+- 2019-11-05. Amelia Acker. [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/)
 - Current. [Library Freedom Project](https://libraryfreedomproject.org/)
 - 2018-04. Data Privacy Project. [A zine about privacy at the library](https://dataprivacyproject.org/wp-content/uploads/2018/04/zine_for_printer_printing_order.pdf) [PDF]
-- 2019-08. Emily Drabinski.[The Internet's Invisible Cleanup Crew](https://jacobinmag.com/2019/08/commercial-content-moderation-business-process-outsourcing-book-sarah-roberts-behind-screen)
 
 Resources:
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 
 ### April 13 --- Content Management, Digital Asset Management, Digital Preservation
 
+**Guest Lecturer TBA** 
+
 Readings:
 
 - 2014-04-19. Michah Walter. [Downgrading your website](https://uncategorized.micahwalter.com/downgrading-your-website-e3d0ba00fd44)
-- 2016. Karen Coyle. [Catalogs and Context](http://kcoyle.net/catcon.html)
+- c.2016. Karen Coyle. [Catalogs and Context](http://kcoyle.net/catcon.html)
 - 2006-05-20. Karen G. Schneider. [How OPACs Suck, Part 3: The Big Picture](http://web.archive.org/web/20091001235807/http://www.alatechsource.org/blog/2006/05/how-opacs-suck-part-3-the-big-picture.html)
 - 2017-12-15. Lauren J. Young. [ScienceFriday: Ghost in the Reels](https://apps.sciencefriday.com/data/ghosts.html)
 - 2019-02-07. David Rosenthal. [Cloud For Preservation](https://blog.dshr.org/2019/02/cloud-for-preservation.html)
 
-Optional, but encouraged, especially for LIS students:
-- 2017-09-12. Karen Coyle. [Creating the Catalog, Before and After FRBR](https://kcoyle.net/mexico.html)
-
 References:
 - [A high-level overview of the differences between CMSs](https://docs.google.com/spreadsheets/d/1cXOug3qM0pNNeD_wssiVEv9c0W1Y5I1VDTnSPTk7fb4/edit?ts=5ca9a929#gid=0)
 - 2013-08. Library of Congress. [Analysis of Current Digital Preservation Policies: Archives, Libraries and Museums](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
+
+Optional, but encouraged, especially for LIS students:
+- 2017-09-12. Karen Coyle. [Creating the Catalog, Before and After FRBR](https://kcoyle.net/mexico.html)
 
 ### April 20 --- Blank Technology Canvas Pitch Presentations
 
