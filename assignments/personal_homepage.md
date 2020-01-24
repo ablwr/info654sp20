@@ -104,28 +104,26 @@ Other requirements:
 -   At least one valid use of the html5 footer element
 
 -   To turn the project in, students will need to host their code
-    somewhere accessible to the instructors. The simplest way to do this
-    is to use Glitch (<https://glitch.com/>), and turn the project in
-    with a link to the "Live App" preview. (Previously, we suggested
-    Mozilla Thimble (<https://thimble.mozilla.org/en-US/>), but Thimble
-    projects are now being migrated to Glitch). Other file hosting
+    somewhere accessible to the instructor. The simplest way to do this
+    is to use Glitch (<https://glitch.com/>). (I will demonstrate this
+    service and how to use it in class.) Other file hosting
     options are also available if students want to try self-hosting or
     other means.
 
 **A suggestion on how to start:**
 
-First create a plan for the pages you\'d like to include, along with an
-outline of what will appear on each page\
-Create a basic, valid HTML5 template, and save a version for each of
-those pages\
-Then, link those pages together\
-Then, add basic content to the pages using block elements\
-Then, add images to the pages\
-Then, style the pages as you\'d like, adding attributes to the HTML
-elements and controlling how they are styled\--across all pages\--using
-an external style sheet\
-From there, make sure the other details and requirements for specific
-pages are in place
+- First create a plan for the pages you\'d like to include, along with
+  an outline of what will appear on each page
+- Create a basic, valid HTML5 template, and save a version for each of
+  those pages\
+- Then, link those pages together\
+- Then, add basic content to the pages using block elements\
+- Then, add images to the pages\
+- Then, style the pages as you\'d like, adding attributes to the HTML
+  elements and controlling how they are styled\--across all pages\--using
+  an external style sheet\
+- From there, make sure the other details and requirements for specific
+  pages are in place
 
 Sites that you may find helpful, in addition to those listed among the
 class readings:

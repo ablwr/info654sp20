@@ -32,7 +32,7 @@ Course WordPress site:   [https://commons.pratt.edu/prattsi654sp20/](https://com
 Course hashtag: [#INFO654](https://twitter.com/search?f=tweets&q=%23info654&src=typd) (optional)
 
 ---
-Thank you to Josh Hadro, original designer of this class!
+Thank you to [Josh Hadro](https://www.pratt.edu/faculty_and_staff/bio/?id=RXNDUWdpZjVlbngwWmRkQ1F6WDFMQT09), original designer of this class!
 
 Publishing everything in this repo as CC-BY; see [`license`](license.md)
 

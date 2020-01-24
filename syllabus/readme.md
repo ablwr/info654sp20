@@ -116,10 +116,10 @@ Readings with an \* can sometimes be behind a paywall. A copy has been saved in 
 
 Readings:
 
+- \* 1945. Vannevar Bush. [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true)
 - c.1997. Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff. [A Brief History of the Internet](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet)
 - c.2000. W3C [A Little History of the World Wide Web](http://www.w3.org/History.html)
 - 2019-01-14. Amy Dickens. [Web Standards: The What, The Why, And The How](https://www.smashingmagazine.com/2019/01/web-standards-guide/)
-- \* 1945. Vannevar Bush. [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true)
 - \* 2015-12-06. Ingrid Burrington. [The Environmental Toll of a Netflix Binge](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/)
 - 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/)
 - 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696)
@@ -136,6 +136,9 @@ Readings:
 - 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/)
 - Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
 - [The Evolution of the Web](http://www.evolutionoftheweb.com/?hl=en) (infographic)
+
+Option, web history:
+- 2014-11-20. Paul Ford. [The Group That Rules The Web](http://www.newyorker.com/tech/elements/group-rules-web)
 
 Technical resources:
 - [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
@@ -189,11 +192,10 @@ Readings:
 - [User-Centered Design for Complex Digital Objects]\(https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 - 2014-07-31. Anne Gibson. [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
 - c.2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main)
-- [Accessibility and Design resources](https://www.usability.gov/)
-- http://www.libsuccess.org/Website_Design
-- http://www.libsuccess.org/Website_Design#Accessibility
 
-Bonus -- More on responsive design:
+Resources:
+- [Accessibility and Design resources](https://www.usability.gov/)
+- http://www.libsuccess.org/Website_Design#Accessibility
 - [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 - [9 GIFs That Explain Responsive Design Brilliantly](https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2)
 

@@ -4,22 +4,22 @@
 
 **Technology and Service Inspiration Posts (10% of total grade)**
 
-**Blog URL:** <https://commons.pratt.edu/prattsi654fa19/>
+**Blog URL:** <https://commons.pratt.edu/prattsi654sp20/>
 
 Due Dates: 
 -----------
 
 **Technology & Service Inspiration Posts**
 
-September 04\
-September 25\
-October 30
+- September 04
+- September 25
+- October 30
 
 **Reflection Posts**
 
-September 11\
-October 02\
-November 20
+- September 11
+- October 02
+- November 20
 
 **Background**\
 Museum, Library, Archive and other information technologies are a set of
