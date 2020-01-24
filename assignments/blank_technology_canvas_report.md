@@ -26,21 +26,23 @@ The written proposal should provide a narrative synthesizing the inspiration exa
 
 ## Specifics: 
 
-• At least 8 documented and annotated inspiration sources; at least 3 of the 8 sources must be hardware of some kind, which can include consumer or enterprise hardware products. Each inspiration source must include: 
-    ◦ 2-3 sentence (minimum) description:
-        ▪ Description of how inspiration source technology satisfies a user need
-        ▪ Comment about how source might be modified or adapted to student proposal
-    ◦ Citation of the source
-• At least two User Personae (400 words max, each), describing an example use case for the technology in the proposed space, each including:
-    ◦ Name of persona
-    ◦ Paragraph of fictional background and basic relevant demographic information
-    ◦ Narrative description of specific user need 
-    ◦ Bullet point examples of use case example interactions with technology in the proposed space
-• Written report, including the following: 
-    ◦ A technology space proposal of between 1000 and 1200 words, covering:
-        ▪ A clear description of a specific target user demographic to be served (feel free to reference User Persona as an example here)
-        ▪ A clear description of the institutional context for proposed technology installation/site
-        ▪ Specific proposals for technology components to be included, citing references to the annotated inspiration components
-        ▪ Potential partner organizations
-• All of the above to be turned in as part of a single website with all the components linked from the home page (using Wordpress or other site creation tool)
-• Email the address of the website to ashley.blewer@gmail.com to turn in the assignment before class on the day it is due
+• At least 8 documented and annotated inspiration sources; at least 3 of the 8 sources must be hardware of some kind, which can include consumer or enterprise hardware products. Each inspiration source must include:  
+    ◦ 2-3 sentence (minimum) description:  
+        ▪ Description of how inspiration source technology satisfies a user need  
+        ▪ Comment about how source might be modified or adapted to student proposal  
+    ◦ Citation of the source  
+• At least two User Personae (400 words max, each), describing an example use case for the technology in the proposed space, each including:  
+    ◦ Name of persona  
+    ◦ Paragraph of fictional background and basic relevant demographic information  
+    ◦ Narrative description of specific user need   
+    ◦ Bullet point examples of use case example interactions with technology in the proposed space  
+• Written report, including the following:   
+    ◦ A technology space proposal of between 1000 and 1200 words, covering:  
+        ▪ A clear description of a specific target user demographic to be served (feel free to reference User Persona as an example here)  
+        ▪ A clear description of the institutional context for proposed technology installation/site  
+        ▪ Specific proposals for technology components to be included, citing references to the annotated inspiration components  
+        ▪ Potential partner organizations  
+
+• All of the above to be turned in as part of a single website with all the components linked from the home page (using Wordpress or other site creation tool)  
+
+• Email the address of the website to ashley.blewer@gmail.com to turn in the assignment before class on the day it is due  
