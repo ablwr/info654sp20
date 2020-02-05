@@ -2,7 +2,7 @@
 
 INFO 654-01  
 Credits: 3  
-Day and Time: Wednesday 06:30PM - 09:20PM
+Day and Time: Wednesday 06:30PM - 09:20PM  
 Location: Manhattan, Room [606](https://docs.google.com/document/d/17XuVefzFW-W8zM_u0NaTcaP06S782bd1rmQ9f50igSQ/edit)
 
 Instructor:
@@ -116,13 +116,13 @@ Readings with an \* can sometimes be behind a paywall. A copy has been saved in 
 
 Readings:
 
-- \* 1945. Vannevar Bush. [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true)
-- c.1997. Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff. [A Brief History of the Internet](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet)
-- c.2000. W3C [A Little History of the World Wide Web](http://www.w3.org/History.html)
-- 2019-01-14. Amy Dickens. [Web Standards: The What, The Why, And The How](https://www.smashingmagazine.com/2019/01/web-standards-guide/)
-- \* 2015-12-06. Ingrid Burrington. [The Environmental Toll of a Netflix Binge](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/)
-- 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/)
-- 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696)
+- \* 1945. Vannevar Bush. [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true) (35min)
+- c.1997. Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff. [A Brief History of the Internet](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet) (40min)
+- c.2000. W3C [A Little History of the World Wide Web](http://www.w3.org/History.html) (7min)
+- 2019-01-14. Amy Dickens. [Web Standards: The What, The Why, And The How](https://www.smashingmagazine.com/2019/01/web-standards-guide/) (29min)
+- \* 2015-12-06. Ingrid Burrington. [The Environmental Toll of a Netflix Binge](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/) (8min)
+- 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/) (7 min)
+- 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696) (17min)
 
 ### February 10 --- Web Design Basics: HTML (LAB)
 
@@ -278,6 +278,7 @@ Readings:
 - 2014-04-19. Michah Walter. [Downgrading your website](https://uncategorized.micahwalter.com/downgrading-your-website-e3d0ba00fd44)
 - c.2016. Karen Coyle. [Catalogs and Context](http://kcoyle.net/catcon.html)
 - 2006-05-20. Karen G. Schneider. [How OPACs Suck, Part 3: The Big Picture](http://web.archive.org/web/20091001235807/http://www.alatechsource.org/blog/2006/05/how-opacs-suck-part-3-the-big-picture.html)
+- Current. Digital Preservation Coalition. [Digital Preservation Handbook](https://dpconline.org/handbook) (don't worry about trying to read the whole thing)
 - 2017-12-15. Lauren J. Young. [ScienceFriday: Ghost in the Reels](https://apps.sciencefriday.com/data/ghosts.html)
 - 2019-02-07. David Rosenthal. [Cloud For Preservation](https://blog.dshr.org/2019/02/cloud-for-preservation.html)
 
@@ -344,7 +345,7 @@ in the above weekly schedule.
 There are no texts that are required purchases for this course. All
 required readings are provided directly or will be available online. It
 is expected that you will complete all assigned readings and tutorials
-[before]{.underline} the class session. Links to all assigned materials
+**before** the class session. Links to all assigned materials
 will be available in the syllabus and posted on Github.
 
 ## Suggested Texts, Sites, and Lists
@@ -357,17 +358,17 @@ provided below with some regularity.
 
 **Library-related outlets featuring significant technology coverage:**
 
-<http://planet.code4lib.org/>\
-<http://code4lib.org/>\
-<http://weaveux.org/\>\
-<http://hacklibraryschool.com/>\
-<http://www.inthelibrarywiththeleadpipe.org/>\
-<http://scholarlykitchen.sspnet.org/>\
-<http://www.dlib.org/>\
-<http://firstmonday.org/>\
-<http://www.libraryinnovation.org/>\
-<http://lj.libraryjournal.com/category/technology/>\
-<https://americanlibrariesmagazine.org/>
+<http://planet.code4lib.org/>  
+<http://code4lib.org/>  
+<http://weaveux.org/\>  
+<http://hacklibraryschool.com/>  
+<http://www.inthelibrarywiththeleadpipe.org/>  
+<http://scholarlykitchen.sspnet.org/>  
+<http://www.dlib.org/>  
+<http://firstmonday.org/>  
+<http://www.libraryinnovation.org/>  
+<http://lj.libraryjournal.com/category/technology/>  
+<https://americanlibrariesmagazine.org/>  
 
 **Email lists and Newsletters:**
 
