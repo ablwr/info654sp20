@@ -11,15 +11,15 @@ Due Dates:
 
 **Technology & Service Inspiration Posts**
 
-- September 04
-- September 25
-- October 30
+- February 3
+- February 24
+- April 06
 
 **Reflection Posts**
 
-- September 11
-- October 02
-- November 20
+- February 10
+- March 02
+- April 27
 
 **Background**\
 Museum, Library, Archive and other information technologies are a set of

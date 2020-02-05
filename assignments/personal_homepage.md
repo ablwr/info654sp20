@@ -1,6 +1,6 @@
 **Personal Home Page (20% of total grade)**
 
-**Due date: October 16, 2019**
+**Due date: March 23, 2020**
 
 **Background**
 As a web-conversant 21st century information professional, a
