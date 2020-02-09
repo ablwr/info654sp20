@@ -121,7 +121,7 @@ Readings:
 - c.2000. W3C [A Little History of the World Wide Web](http://www.w3.org/History.html) (7min)
 - 2019-01-14. Amy Dickens. [Web Standards: The What, The Why, And The How](https://www.smashingmagazine.com/2019/01/web-standards-guide/) (29min)
 - \* 2015-12-06. Ingrid Burrington. [The Environmental Toll of a Netflix Binge](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/) (8min)
-- 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/) (7 min)
+- 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/) (7min)
 - 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696) (17min)
 
 ### February 10 --- Web Design Basics: HTML (LAB)
@@ -130,15 +130,15 @@ Readings:
 
 Readings:
 
-- 2018-09-01. Julia Evans. [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
-- c.1998. Addison Wesley Longman. [A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html)
-- 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/)
-- 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/)
+- 2018-09-01. Julia Evans. [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/) (8min)
+- c.1998. Addison Wesley Longman. [A history of HTML](http://www.w3.org/People/Raggett/book4/ch02.html) (32min)
+- 2010-05-04. Jeremy Keith. [A Brief History of Markup](http://www.alistapart.com/articles/a-brief-history-of-markup/) (8min)
+- 2017-02-13. J. M. Porup. [A battle rages for the future of the Web](https://arstechnica.co.uk/information-technology/2017/02/future-of-the-www-timbl-drm/) (16min)
 - Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
 - [The Evolution of the Web](http://www.evolutionoftheweb.com/?hl=en) (infographic)
 
 Option, web history:
-- 2014-11-20. Paul Ford. [The Group That Rules The Web](http://www.newyorker.com/tech/elements/group-rules-web)
+- 2014-11-20. Paul Ford. [The Group That Rules The Web](http://www.newyorker.com/tech/elements/group-rules-web) (15 min)
 
 Technical resources:
 - [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
