@@ -85,11 +85,13 @@ All pages must include:
 
     -   All images must include ALT text
 
-    -   Images are to be stored within a folder labeled \"images\"
+    -   Images are to be stored within a folder labeled \"assets\"
 
 -   Links to the other required site pages using the html5 nav element
 
 Other requirements:
+
+-   At least one file must be inside of a folder
 
 -   The homepage and the linked external CSS style sheet must both
     feature at least one comment in the code (i.e., HTML comment on
