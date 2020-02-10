@@ -141,6 +141,7 @@ Option, web history:
 - 2014-11-20. Paul Ford. [The Group That Rules The Web](http://www.newyorker.com/tech/elements/group-rules-web) (15 min)
 
 Technical resources:
+- [Mozilla web docs: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
 
 ### February 17 --- Web Design Basics: CSS (LAB)
@@ -156,6 +157,7 @@ Technical resources:
 - [CSS Basics](http://www.cssbasics.com/)
 - Current. Mozilla. [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - Current. Mozilla. [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
+- [CSS Beginner Tutorial](https://www.htmldog.com/guides/css/beginner/)
 
 Bonus:
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
@@ -170,7 +172,7 @@ Readings:
 - \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb) (31 min)
 - 2018-07-31. The Bodleian Libraries. [Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253) (9 min)
 - 2019-02-06. Allie Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe) (11 min)
-- 2016-11-02. Sid Bala. [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
+- 2016-11-02. Sid Bala. [H.264 is Magic](https://sidbala.com/h-264-is-magic/) ([alt link](https://web.archive.org/web/20190628062616/https://sidbala.com/h-264-is-magic/))
 - 2019-05-01. Omar Shehata. [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/) (20 min, plus playtime)
 
 Resources:
