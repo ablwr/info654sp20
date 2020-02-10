@@ -147,10 +147,10 @@ Technical resources:
 
 Readings:
 
-- 2015-06-11. Paul Ford. [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (Note: longer piece, leave enough time to experience this!)
-- c.1999. Håkon Wium Lie and Bert Bos. Cascading Style Sheets, designing for the Web, Chapter 20: [The CSS Saga](http://www.w3.org/Style/LieBos2e/history/Overview.html)
-- [Code.org: Web Development: Intro to CSS](https://www.youtube.com/watch?v=EP9QMdoXvXE) (video)
-- 2019-10-11. Rachel Andrews. [The W3C at Twenty-Five](https://www.smashingmagazine.com/2019/10/happy-birthday-w3c/)
+- 2015-06-11. Paul Ford. [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (**142 min**, plus playtime [not a typo!])
+- c.1999. Håkon Wium Lie and Bert Bos. Cascading Style Sheets, designing for the Web, Chapter 20: [The CSS Saga](http://www.w3.org/Style/LieBos2e/history/Overview.html) (12 min)
+- [Code.org: Web Development: Intro to CSS](https://www.youtube.com/watch?v=EP9QMdoXvXE) (video) (3.5 min)
+- 2019-10-11. Rachel Andrews. [The W3C at Twenty-Five](https://www.smashingmagazine.com/2019/10/happy-birthday-w3c/) (12 min)
 
 Technical resources:
 - [CSS Basics](http://www.cssbasics.com/)
@@ -167,11 +167,11 @@ Bonus:
 
 Readings:
 
-- \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb)
-- 2018-07-31. The Bodleian Libraries. [Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253)
-- 2019-02-06. Allie Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe)
+- \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb) (31 min)
+- 2018-07-31. The Bodleian Libraries. [Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253) (9 min)
+- 2019-02-06. Allie Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe) (11 min)
 - 2016-11-02. Sid Bala. [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
-- 2019-05-01. Omar Shehata. [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- 2019-05-01. Omar Shehata. [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/) (20 min, plus playtime)
 
 Resources:
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
@@ -183,21 +183,21 @@ Resources:
 
 Readings:
 
-- 2017-09-20. Ashley Blewer. [Accessibility and Archivability](https://bits.ashleyblewer.com/blog/2017/09/20/accessibility-and-archivability/)
-- 2013-08-27. Aarron Walter. [Connected UX](http://alistapart.com/article/connected-ux)
-- [Web Style Guide- Chapter 2*:* Universal Usability](http://www.webstyleguide.com/wsg3/2-universal-usability/index.html)
-- 2009-10-06. Dana Chisnell. [Usability Testing Demystified](https://alistapart.com/article/usability-testing-demystified)
+- 2017-09-20. Ashley Blewer. [Accessibility and Archivability](https://bits.ashleyblewer.com/blog/2017/09/20/accessibility-and-archivability/) (6 min)
+- 2013-08-27. Aarron Walter. [Connected UX](http://alistapart.com/article/connected-ux) (9 min)
+- [Web Style Guide- Chapter 2*:* Universal Usability](http://www.webstyleguide.com/wsg3/2-universal-usability/index.html) (note this is across several pages)
+- 2009-10-06. Dana Chisnell. [Usability Testing Demystified](https://alistapart.com/article/usability-testing-demystified) (8 min)
 - 2016-05-08. Sina Bahram. [How I Code and Use a Computer at 1,000 WPM!!](https://youtu.be/G1r55efei5c) (video, 13 minutes)
 - 2017-09. Moriel Schottlender. [Wait, it does ??tahW: How supporting Right-to-Left can expose your bad UX](https://www.youtube.com/watch?v=xpumLsaAWGw) (video, 28 minutes)
-- [User-Centered Design for Complex Digital Objects]\(https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
-- 2014-07-31. Anne Gibson. [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
-- c.2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main)
+- 2014-07-31. Anne Gibson. [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-July-31) (7 min)
+- c.2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main) (20 min)
 
 Resources:
 - [Accessibility and Design resources](https://www.usability.gov/)
 - http://www.libsuccess.org/Website_Design#Accessibility
 - [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 - [9 GIFs That Explain Responsive Design Brilliantly](https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2)
+- [User-Centered Design for Complex Digital Objects]\(https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 
 ### March 9 --- Structured Data, XML, and JSON (LAB)
 
