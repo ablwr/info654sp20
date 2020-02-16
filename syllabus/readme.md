@@ -169,7 +169,7 @@ Bonus:
 
 Readings:
 
-- \* 2015-01-26. Jill Lepore. The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb) (31 min)
+- \* 2015-01-26. Jill Lepore. [The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb) (31 min)
 - 2018-07-31. The Bodleian Libraries. [Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253) (9 min)
 - 2019-02-06. Allie Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe) (11 min)
 - 2016-11-02. Sid Bala. [H.264 is Magic](https://sidbala.com/h-264-is-magic/) ([alt link](https://web.archive.org/web/20190628062616/https://sidbala.com/h-264-is-magic/))
@@ -199,7 +199,7 @@ Resources:
 - http://www.libsuccess.org/Website_Design#Accessibility
 - [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 - [9 GIFs That Explain Responsive Design Brilliantly](https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2)
-- [User-Centered Design for Complex Digital Objects]\(https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
+- [User-Centered Design for Complex Digital Objects](https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 
 ### March 9 --- Structured Data, XML, and JSON (LAB)
 
@@ -229,7 +229,7 @@ Readings:
 - [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
 - [Linked Data for Libraries](http://lodlam.net/2012/08/09/linked-data-for-libraries-video-from-oclc/) (video, 14 minutes)
 - [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/)
-- [Unlocking Potential: Where Next for Open Cultural Data in Museums?]](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/)
+- [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/)
 
 
 ### March 30 --- Technology Law and Ethics
@@ -295,7 +295,7 @@ Optional, but encouraged, especially for LIS students:
 
 **Due: Blank Technology Canvas Pitch Presentation**
 
-### April 27 --- Blank Technology Canvas Pitch Presentations
+### April 27 --- NO CLASS --- Blank Technology Canvas Pitch Presentations Feedback
 
 **Due: Reflection Post 3**
 
