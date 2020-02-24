@@ -161,9 +161,9 @@ Technical resources:
 
 Bonus:
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
-- Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8)
+- Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8))
 
-### February 24 --- More Web Design Principles + Graphics and Multimedia (Web Design Wrap-up)
+### February 24 --- File Formats and Web Design Wrap-up
 
 **Due: Technology and Service Inspiration Post 2**
 
@@ -295,9 +295,10 @@ Optional, but encouraged, especially for LIS students:
 
 **Due: Blank Technology Canvas Pitch Presentation**
 
-### April 27 --- NO CLASS --- Blank Technology Canvas Pitch Presentations Feedback
+### April 27 --- Blank Technology Canvas Pitch Presentations Feedback
 
 **Due: Reflection Post 3**
+**Due: Blank Technology Canvas Pitch Presentation**
 
 ### May 4 --- Databases and Structured Queries (LAB)
 
