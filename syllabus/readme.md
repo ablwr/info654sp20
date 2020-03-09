@@ -170,8 +170,8 @@ Bonus:
 Readings:
 
 - \* 2015-01-26. Jill Lepore. [The Cobweb: Can the Internet be archived](http://www.newyorker.com/magazine/2015/01/26/cobweb) (31 min)
-- 2018-07-31. The Bodleian Libraries. [Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253) (9 min)
-- 2019-02-06. Allie Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe) (11 min)
+- 2018-07-31. Emma Stanford (Bodleian Libraries). [Booksquashing](https://medium.com/@bodleian/booksquashing-1d3fa800c253) (9 min)
+- 2019-02-06. Allison Whalen. [The Expanding Digitization Universe](https://www.library.ucla.edu/blog/preservation/2019/02/06/the-expanding-digitization-universe) (11 min)
 - 2016-11-02. Sid Bala. [H.264 is Magic](https://sidbala.com/h-264-is-magic/) ([alt link](https://web.archive.org/web/20190628062616/https://sidbala.com/h-264-is-magic/))
 - 2019-05-01. Omar Shehata. [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/) (20 min, plus playtime)
 
@@ -195,7 +195,7 @@ Readings:
 - c.2017. Cynthia Ng. [A Practical Guide to Improving Web Accessibility](https://quod.lib.umich.edu/w/weave/12535642.0001.701?view=text;rgn=main) (20 min)
 
 Resources:
-- [Accessibility and Design resources](https://www.usability.gov/)
+- [usability.gov](https://www.usability.gov/)
 - http://www.libsuccess.org/Website_Design#Accessibility
 - [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 - [9 GIFs That Explain Responsive Design Brilliantly](https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2)
@@ -205,14 +205,14 @@ Resources:
 
 Readings:
 
-- [Getting started with XML: A workshop](http://infomotions.com/musings/getting-started/getting-started.pdf) (Read Part I: "General introduction to XML")
-- [A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)
-- [XML and Databases](http://www.rpbourret.com/xml/XMLAndDatabases.htm) (Sections 1-4, rest is optional)
-- [JSON Basics: What You Need to Know](http://www.elated.com/articles/json-basics/) (don't worry about the JavaScript
-  and PHP parts, unless you're interested!)
-- 2015-11-16. [Stop Comparing JSON and XML](https://www.yegor256.com/2015/11/16/json-vs-xml.html)
-- [Structured vs. Unstructured Data](https://www.datamation.com/big-data/structured-vs-unstructured-data.html)
-- 2014-01-17. Anthony Cocciolo. [Unix Commands and Batch Processing for the Reluctant Librarian or Archivist](https://journal.code4lib.org/articles/9158)
+- Eric Lease Morgan. [Getting started with XML: A workshop](http://infomotions.com/musings/getting-started/getting-started.pdf) (Read Part I: "General introduction to XML") (4 min)
+- 2020-02-13. Text Encoding Initiative. [A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html) (60 min)
+- 2005-09. Ronald Bourret. [XML and Databases](http://www.rpbourret.com/xml/XMLAndDatabases.htm) (Sections 1-4, rest is optional) (13 min)
+- 2011-03-24. Matt Doyle. [JSON Basics: What You Need to Know](http://www.elated.com/articles/json-basics/) (don't worry about the JavaScript
+  and PHP parts, unless you're interested!) (full text: 19 min)
+- 2015-11-16. Yegor Bugayenko. [Stop Comparing JSON and XML](https://www.yegor256.com/2015/11/16/json-vs-xml.html) (5 min)
+- 2018-03-28. Christine Taylor. [Structured vs. Unstructured Data](https://www.datamation.com/big-data/structured-vs-unstructured-data.html) (9 min)
+- 2014-01-17. Anthony Cocciolo. [Unix Commands and Batch Processing for the Reluctant Librarian or Archivist](https://journal.code4lib.org/articles/9158) (18 min)
 
 ### March 16 --- Spring Break / NO CLASS
 
