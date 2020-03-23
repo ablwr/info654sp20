@@ -216,11 +216,7 @@ Readings:
 
 ### March 16 --- Spring Break / NO CLASS
 
-### March 23 --- Unexpected global pandemic break
-
-- Due to COVID-19, we will not meet this week and this will be considered a 'study break' week. You can think of it as an extra week of Spring Break while we prepare to shift this class to an online format.
-
-### March 30 --- APIs and Linked Data (LAB)
+### March 23 --- APIs and Linked Data (LAB)
 
 **Due: Personal homepage**
 
@@ -236,7 +232,7 @@ Readings:
 - [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/)
 
 
-### April 6 --- Technology Law and Ethics
+### March 30 --- Technology Law and Ethics
 
 Readings:
 
@@ -256,7 +252,7 @@ Practices](https://www.aam-us.org/programs/ethics-standards-and-professional-pra
 - [ALA Code of Ethics](http://www.ala.org/tools/ethics)
 - [Mapping open source in museums](https://geealbers.github.io/mapping-open-source/network/)
 
-### April 13 --- Data analysis and visualization, and privacy/security/content moderation
+### April 6 --- Data analysis and visualization, and privacy/security/content moderation
 
 **Due: Technology and Service Inspiration Post 3**
 
@@ -275,7 +271,7 @@ information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0
 Resources:
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 
-### April 20 --- Content Management, Digital Asset Management, Digital Preservation
+### April 13 --- Content Management, Digital Asset Management, Digital Preservation
 
 **Guest Lecturer TBA** 
 
@@ -295,10 +291,14 @@ References:
 Optional, but encouraged, especially for LIS students:
 - 2017-09-12. Karen Coyle. [Creating the Catalog, Before and After FRBR](https://kcoyle.net/mexico.html)
 
+### April 20 --- Blank Technology Canvas Pitch Presentations
+
+**Due: Blank Technology Canvas Pitch Presentation**
+
 ### April 27 --- Blank Technology Canvas Pitch Presentations Feedback
 
 **Due: Reflection Post 3**
-**Due: Blank Technology Canvas Pitch Presentations**
+**Due: Blank Technology Canvas Pitch Presentation**
 
 ### May 4 --- Databases and Structured Queries (LAB)
 
