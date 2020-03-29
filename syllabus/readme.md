@@ -226,14 +226,13 @@ Readings:
 
 Readings:
 
-- [MARC, Linked Data, and Human-Computer Asymmetry](https://web.archive.org/web/20171108034006/http://lj.libraryjournal.com/2015/02/opinion/peer-to-peer-review/marc-linked-data-and-human-computer-asymmetry-peer-to-peer-review/)
-- [What Is An API & What Are They Good For?](http://www.makeuseof.com/tag/api-good-technology-explained/)
-- [REST Web APIs: A Super-Simple Tutorial](http://www.pgbovine.net/rest-web-api-basics.htm)
+- [MARC, Linked Data, and Human-Computer Asymmetry](https://web.archive.org/web/20171108034006/http://lj.libraryjournal.com/2015/02/opinion/peer-to-peer-review/marc-linked-data-and-human-computer-asymmetry-peer-to-peer-review/) (7min)
+- [What Is An API & What Are They Good For?](http://www.makeuseof.com/tag/api-good-technology-explained/) (6 min)
+- [REST Web APIs: A Super-Simple Tutorial](http://www.pgbovine.net/rest-web-api-basics.htm) (6 min)
 - Current. White House. [WhiteHouse api-standards](https://github.com/WhiteHouse/api-standards)
 - [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
-- [Linked Data for Libraries](http://lodlam.net/2012/08/09/linked-data-for-libraries-video-from-oclc/) (video, 14 minutes)
-- [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/)
-- [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/)
+- [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) (24 min)
+- [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/) (7 min)
 
 
 ### April 6 --- Technology Law and Ethics
@@ -277,7 +276,7 @@ Resources:
 
 ### April 20 --- Content Management, Digital Asset Management, Digital Preservation
 
-**Guest Lecturer TBA** 
+**Guest Lecturer -- Cancelled** 
 
 Readings:
 
