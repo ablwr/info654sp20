@@ -226,13 +226,13 @@ Readings:
 
 Readings:
 
-- [MARC, Linked Data, and Human-Computer Asymmetry](https://web.archive.org/web/20171108034006/http://lj.libraryjournal.com/2015/02/opinion/peer-to-peer-review/marc-linked-data-and-human-computer-asymmetry-peer-to-peer-review/) (7min)
-- [What Is An API & What Are They Good For?](http://www.makeuseof.com/tag/api-good-technology-explained/) (6 min)
-- [REST Web APIs: A Super-Simple Tutorial](http://www.pgbovine.net/rest-web-api-basics.htm) (6 min)
+- 2015-02-05. Dorothea Salo. [MARC, Linked Data, and Human-Computer Asymmetry](https://web.archive.org/web/20171108034006/http://lj.libraryjournal.com/2015/02/opinion/peer-to-peer-review/marc-linked-data-and-human-computer-asymmetry-peer-to-peer-review/) (7min)
+- 2015-02-19. Matthew Hughes. [What Is An API & What Are They Good For?](http://www.makeuseof.com/tag/api-good-technology-explained/) (6 min)
+- October 2015. Philip Guo.[REST Web APIs: A Super-Simple Tutorial](http://www.pgbovine.net/rest-web-api-basics.htm) (6 min)
 - Current. White House. [WhiteHouse api-standards](https://github.com/WhiteHouse/api-standards)
-- [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
-- [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) (24 min)
-- [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/) (7 min)
+- 2012-06-16. Manu Sporny. [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
+- 2016-03-20. Ruth Kitchin Tillman. [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) (24 min)
+- 2017-10-19. Mia Ridge. [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/) (7 min)
 
 
 ### April 6 --- Technology Law and Ethics
