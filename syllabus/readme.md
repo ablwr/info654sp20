@@ -241,7 +241,6 @@ Readings:
 
 - 2019-02-20. Kate Dohe. [Care, Code, and Digital Libraries: Embracing Critical Practice in Digital Library Communities](http://inthelibrarywiththeleadpipe.org/2019/digital-libraries-critical-practice-in-communities/) (32 min)
 - 2018-12-14. Martin Tisne. [It's time for a Bill of Data Rights](https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/) (13 min)
-- April 2017. Clifford Lynch. [The Rise of Reading Analytics and the Emerging Calculus of Reader Privacy in the Digital World: Introduction](http://firstmonday.org/ojs/index.php/fm/article/view/7414/6096) (13 min)
 - Spring 2005. Edward M. Corrado. [The Importance of Open Access, Open Source, and Open Standards for Libraries](http://www.istl.org/05-spring/article2.html) (12 min)
 - 2011-09-27. Meredith Farkas. [Open Source, Open Mind](https://americanlibrariesmagazine.org/2011/09/27/open-source-open-mind/) (3 min)
 - 2019-10-06. Christie Koehler. [Open Source Licenses and the Ethical Use of Software](https://subfictional.com/open-source-licenses-and-the-ethical-use-of-software/) (30 min)
