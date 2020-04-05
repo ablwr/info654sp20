@@ -260,14 +260,14 @@ Practices](https://www.aam-us.org/programs/ethics-standards-and-professional-pra
 
 Readings:
 
-- 2017-09-18. [Intro To Data Analysis For Everyone! Part 1](https://towardsdatascience.com/intro-to-data-analysis-for-everyone-part-1-ff252c3a38b5) (N.B.: Make sure to watch the "Data Story Telling" video embedded in the article)
-- 2019-06-02. Lindsey Rogers Cook. [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919)
+- 2017-09-18. [Intro To Data Analysis For Everyone! Part 1](https://towardsdatascience.com/intro-to-data-analysis-for-everyone-part-1-ff252c3a38b5) (10 min + v20 min video)
+- 2019-06-02. Lindsey Rogers Cook. [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) (5 min)
 - [Data + Design: A simple introduction to preparing and visualizing
 information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf) Read Chapters 1-2 and 12-13 [PDF]
-- 2018-10-17. Nathan Yau. [Ask the Question, Visualize the Answer](https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/)
+- 2018-10-17. Nathan Yau. [Ask the Question, Visualize the Answer](https://flowingdata.com/2018/10/17/ask-the-question-visualize-the-answer/) (6 min)
 - 2019-02. Kashmir Hill. [Goodbye Big Five](https://gizmodo.com/c/goodbye-big-five) (Either read text or watch videos)
-- 2019-11-05. Amelia Acker. [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/)
-- Current. [Library Freedom Project](https://libraryfreedomproject.org/)
+- 2019-11-05. Amelia Acker. [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/) (Download PDF -- 15 min)
+- Current. [Library Freedom Project](https://libraryfreedomproject.org/) (timeless)
 - 2018-04. Data Privacy Project. [A zine about privacy at the library](https://dataprivacyproject.org/wp-content/uploads/2018/04/zine_for_printer_printing_order.pdf) [PDF]
 
 Resources:
@@ -275,23 +275,17 @@ Resources:
 
 ### April 20 --- Content Management, Digital Asset Management, Digital Preservation
 
-**Guest Lecturer -- Cancelled** 
-
 Readings:
 
-- 2014-04-19. Michah Walter. [Downgrading your website](https://uncategorized.micahwalter.com/downgrading-your-website-e3d0ba00fd44)
-- c.2016. Karen Coyle. [Catalogs and Context](http://kcoyle.net/catcon.html)
-- 2006-05-20. Karen G. Schneider. [How OPACs Suck, Part 3: The Big Picture](http://web.archive.org/web/20091001235807/http://www.alatechsource.org/blog/2006/05/how-opacs-suck-part-3-the-big-picture.html)
-- Current. Digital Preservation Coalition. [Digital Preservation Handbook](https://dpconline.org/handbook) (don't worry about trying to read the whole thing)
-- 2017-12-15. Lauren J. Young. [ScienceFriday: Ghost in the Reels](https://apps.sciencefriday.com/data/ghosts.html)
-- 2019-02-07. David Rosenthal. [Cloud For Preservation](https://blog.dshr.org/2019/02/cloud-for-preservation.html)
+- c.2016. Karen Coyle. [Catalogs and Context](http://kcoyle.net/catcon.html) (39 min)
+- Current. Digital Preservation Coalition. [Digital Preservation Handbook](https://dpconline.org/handbook) (Read "Introduction" "Technical solutions and tools" [you can skip over the "Resources" sections])Z
+- 2017-12-15. Lauren J. Young. [ScienceFriday: Ghost in the Reels](https://apps.sciencefriday.com/data/ghosts.html) (13 min)
+- 2019-02-07. David Rosenthal. [Cloud For Preservation](https://blog.dshr.org/2019/02/cloud-for-preservation.html) (34 min)
 
 References:
 - [A high-level overview of the differences between CMSs](https://docs.google.com/spreadsheets/d/1cXOug3qM0pNNeD_wssiVEv9c0W1Y5I1VDTnSPTk7fb4/edit?ts=5ca9a929#gid=0)
 - 2013-08. Library of Congress. [Analysis of Current Digital Preservation Policies: Archives, Libraries and Museums](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
 
-Optional, but encouraged, especially for LIS students:
-- 2017-09-12. Karen Coyle. [Creating the Catalog, Before and After FRBR](https://kcoyle.net/mexico.html)
 
 ### April 27 --- Blank Technology Canvas Pitch Presentations Feedback
 
@@ -302,12 +296,12 @@ Optional, but encouraged, especially for LIS students:
 
 Readings:
 
-- 2008-10-23. Ryan Deshamps. [What is a Database, really? Data Storage for Librarians](http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/)
-- Current. Wikiversity. [Introduction to Relational Databases](https://en.wikiversity.org/wiki/Relational_Databases/Introduction)
-- c.2009. Randy Jay Yarger, George Reese, and Tim King. [Chapter 1. Introduction to Relational Databases](http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm)
-- 2013-11-07. Noah Veltman. [SQL: The Prequel (Excel vs. Databases)](https://schoolofdata.org/2013/11/07/sql-databases-vs-excel/)
-- 2015-09-12. Ruth Tillman. [An Introduction to SQL for Librarians](http://ruthtillman.com/an-introduction-to-sql-for-librarians/)
-- 2015-06-27. qntm. [Obergefell v. Hodges: the database engineering perspective](https://qntm.org/support)
+- 2008-10-23. Ryan Deshamps. [What is a Database, really? Data Storage for Librarians](http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/) (12 min)
+- Current. Wikiversity. [Introduction to Relational Databases](https://en.wikiversity.org/wiki/Relational_Databases/Introduction) (10 min)
+- c.2009. Randy Jay Yarger, George Reese, and Tim King. [Chapter 1. Introduction to Relational Databases](http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm) (10 min)
+- 2013-11-07. Noah Veltman. [SQL: The Prequel (Excel vs. Databases)](https://schoolofdata.org/2013/11/07/sql-databases-vs-excel/) (13 min)
+- 2015-09-12. Ruth Kitchin Tillman. [An Introduction to SQL for Librarians](http://ruthtillman.com/an-introduction-to-sql-for-librarians/) (12 min)
+- 2015-06-27. qntm. [Obergefell v. Hodges: the database engineering perspective](https://qntm.org/support) (8 min)
 
 
 - Sandboxes! Have fun and play around with these, you can't break them!:
@@ -327,14 +321,12 @@ above):
 
 Readings:
 
-- 2010-10-28. [Can We Create a National Digital Library?](https://web.archive.org/web/20161105035127/https://www.nybooks.com/articles/2010/10/28/can-we-create-national-digital-library/)
-- 2014-09. Keir Winesmith and Flora Grant. [How Do Institutional Philosophies Manifest in Online Collections?](https://www.sfmoma.org/read/how-do-institutional-philosophies-manifest-online-collections/)
+- 2014-09. Keir Winesmith and Flora Grant. [How Do Institutional Philosophies Manifest in Online Collections?](https://www.sfmoma.org/read/how-do-institutional-philosophies-manifest-online-collections/) (16 min)
 - 2013-08. [Can't Buy Us Love: The Declining Importance of Library Books and the Rising Importance of Special Collections](https://sr.ithaka.org/wp-content/uploads/2013/08/SR_BriefingPaper_Anderson.pdf) [PDF]
-- 2017-05-10. Beatrice Martini. [Decolonizing technology: A reading list](https://beatricemartini.it/blog/decolonizing-technology-reading-list/)
-- 2014-05-13. Jason Scott. [The Robot Army of Good Enough --- May 13, 2014](http://ascii.textfiles.com/archives/4285)
-- 2018-10-16. Melanie Ehrenkranz. [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009/amp)
-- 2017-04-20. James Somers. [Torching the Modern-Day Library of Alexandria](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
-- 2017-08-10. Jennifer Howard. [What Happened to Google's Effort to Scan Millions of University Library Books?](https://www.edsurge.com/news/2017-08-10-what-happened-to-google-s-effort-to-scan-millions-of-university-library-books)
+- 2017-05-10. Beatrice Martini. [Decolonizing technology: A reading list](https://beatricemartini.it/blog/decolonizing-technology-reading-list/) (8 min)
+- 2014-05-13. Jason Scott. [The Robot Army of Good Enough](http://ascii.textfiles.com/archives/4285) (8 min)
+- 2017-08-10. Jennifer Howard. [What Happened to Google's Effort to Scan Millions of University Library Books?](https://www.edsurge.com/news/2017-08-10-what-happened-to-google-s-effort-to-scan-millions-of-university-library-books) (9 min)
+- 2018-10-16. Melanie Ehrenkranz. [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009/amp) (8 min)
 - c.2019 or 2020. Mozilla. [Internet Health Report](https://foundation.mozilla.org/en/internet-health-report/)
 - 2018-06-15. MoreThanCode. [#MoreThanCode: Practitioners reimagine the landscape of technology for justice and equity (executive summary)](https://morethancode.cc/2018/06/15/morethancode-executive-summary.html)
 
