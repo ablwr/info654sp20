@@ -278,7 +278,7 @@ Resources:
 Readings:
 
 - c.2016. Karen Coyle. [Catalogs and Context](http://kcoyle.net/catcon.html) (39 min)
-- Current. Digital Preservation Coalition. [Digital Preservation Handbook](https://dpconline.org/handbook) (Read "Introduction" "Technical solutions and tools" [you can skip over the "Resources" sections])Z
+- Current. Digital Preservation Coalition. [Digital Preservation Handbook](https://dpconline.org/handbook) (Read "Introduction" "Technical solutions and tools" [you can skip over the "Resources" sections in each])
 - 2017-12-15. Lauren J. Young. [ScienceFriday: Ghost in the Reels](https://apps.sciencefriday.com/data/ghosts.html) (13 min)
 - 2019-02-07. David Rosenthal. [Cloud For Preservation](https://blog.dshr.org/2019/02/cloud-for-preservation.html) (34 min)
 
